@@ -9,3 +9,4 @@ feature / commit-3 / git-test888
 feature / commit-4 / git-test888
 
 feature / commit-5 / ktosfajny
+feature / commit-6 / ktosfajny
